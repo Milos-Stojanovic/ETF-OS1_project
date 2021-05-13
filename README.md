@@ -1,4 +1,4 @@
-# OS1_project
+# ETF-OS1 project
 
 Realisation of Operating Systems 1 homework project, academic year 2019/20:
 A kernel that supports:
